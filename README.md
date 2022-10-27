@@ -1,4 +1,4 @@
-# SpectShareX Image Effects
+# SpectShareX Image Effects (Discontinued)
 
 # requirements
 -ShareX and Brain cells
